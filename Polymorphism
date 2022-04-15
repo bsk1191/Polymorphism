@@ -1,0 +1,17 @@
+Overloading
+# class demo:
+#     def add(self,a,b):
+#         print(a+b)
+# obj=demo()
+# obj.add(10,20)
+
+
+over riding
+# class parent:
+#     def transportation(self):
+#         print('cycle')
+# class child(parent):
+#     def transportation(self):
+#         print('bike')
+# obj=child()
+# obj.transportation()
